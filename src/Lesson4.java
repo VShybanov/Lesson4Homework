@@ -3,4 +3,9 @@ public class Lesson4 {
         System.out.println("First commit for Git.");
         System.out.println("2nd commit for Git.");
     }
+
+    public void showString() {
+        System.out.println("This is a new string.");
+    }
+
 }
